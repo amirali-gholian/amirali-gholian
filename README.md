@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Amirali 👋
 
-<!--
-**amirali-gholian/amirali-gholian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🐍 Python Developer
+- 🐧 Linux Enthusiast
+- 🌐 Networking
+- 🔐 Cybersecurity
+- 🤖 AI & Machine Learning
 
-Here are some ideas to get you started:
+## Technologies
+- Python
+- Linux
+- Git & GitHub
+- Networking
+- Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goal
+Building expertise in AI, Cybersecurity and Open Source Technologies.
