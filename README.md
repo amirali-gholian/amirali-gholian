@@ -107,7 +107,7 @@ with a strong focus on practical labs, experimentation, automation, and open-sou
 │                     CURRENTLY BUILDING                       │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  🌐 Network Labs        → Routing, Switching & Troubleshooting│
+│  🌐 Network Labs        → Routing, Switching & Troubleshooting │
 │  🐧 Linux & Servers     → Administration & VPS Practice     │
 │  🔐 Cybersecurity       → Network Security & Practical Labs  │
 │  🐍 Python              → Automation & Useful Tools          │
@@ -152,13 +152,9 @@ with a strong focus on practical labs, experimentation, automation, and open-sou
 
 <div align="center">
 
-<a href="https://github.com/amirali-gholian">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amirali-gholian&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&cache_seconds=86400" alt="Amirali's GitHub Stats"/>
-</a>
+<img height="180" src="./profile/stats.svg" alt="Amirali's GitHub Stats"/>
 
-<a href="https://github.com/amirali-gholian">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirali-gholian&layout=compact&hide_border=true&theme=transparent&langs_count=8&cache_seconds=86400" alt="Amirali's Top Languages"/>
-</a>
+<img height="180" src="./profile/top-langs.svg" alt="Amirali's Top Languages"/>
 
 </div>
 
@@ -166,7 +162,7 @@ with a strong focus on practical labs, experimentation, automation, and open-sou
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=amirali-gholian&theme=transparent&hide_border=true&mode=weekly" alt="Amirali's GitHub Streak"/>
+<img src="./profile/streak.svg" alt="Amirali's GitHub Streak"/>
 
 </div>
 
