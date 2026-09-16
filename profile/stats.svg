@@ -1,14 +1,14 @@
 
       <svg
-        width="327.00000047683716"
+        width="331.70000028610224"
         height="195"
-        viewBox="0 0 327.00000047683716 195"
+        viewBox="0 0 331.70000028610224 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">amirali gholian&#39;s GitHub Stats, Rank: C</title>
+        <title id="titleId">Amirali Gholian&#39;s GitHub Stats, Rank: C</title>
         <desc id="descId">Total Stars Earned: 1, Total Commits  : 604, Total PRs: 1, Total Issues: 0, Contributed to (last year): 2</desc>
         <style>
           .header {
@@ -117,7 +117,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="326.00000047683716"
+          width="330.70000028610224"
           fill="#ffffff00"
           stroke-opacity="0"
         />
@@ -133,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >amirali gholian&#39;s GitHub Stats</text>
+      >Amirali Gholian&#39;s GitHub Stats</text>
     </g>
       </g>
     
