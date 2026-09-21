@@ -86,12 +86,15 @@ with a strong focus on practical labs, experimentation, automation, and open-sou
 **COMPLETED ✅**
 
 ### 🌐 Network+
-**IN PROGRESS 🔄**
+**COMPLETED ✅**
 
 ### 🐧 LPIC-2
 **IN PROGRESS 🔄**
 
-### 🔐 Security+ · 🛡️ CEH · 🌐 CCNA
+### 🌐 CCNA
+**IN PROGRESS 🔄**
+
+### 🔐 Security+ · 🛡️ CEH
 **ROADMAP 📌**
 
 ---
